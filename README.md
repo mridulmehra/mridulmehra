@@ -1,41 +1,35 @@
-# Hey! I'm [Your Name] 👋  
+#### <div align="center"> <h1>Hey! I'm Mridul!! 👋</h1></div>
 
-I am [Your Name], a [Your Current Role or Student Status] with a keen interest in [Your Areas of Interest]. I specialize in [Your Expertise] and enjoy working on challenging projects that solve real-world problems. 🚀  
+I am Mridul Mehra, a Pre-final year Computer Science and Engineering student at SRM Institute of Science and Technology, with a passion for technology and business strategy. I specialize in software development, particularly backend systems and product development, and I aim to combine technology with business to create impactful solutions.🚀<br>
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="center" style="width: 100%" />
+</div><br>
+🔭 I’m looking to collaborate on challenging projects that bridge the gap between technology and business.<br><br> 🌱 I’m currently exploring product development and competitive analysis.<br><br> ❓ Ask me about anything related to backend development, APIs, or business strategy.<br><br> ⚡ Fun fact: I write blogs in my free time! Check them out 🎉
 
-## 🔭 What I'm Currently Working On  
-- [Project 1 Name] - [Short Description]  
-- [Project 2 Name] - [Short Description]  
 
-## 🌱 What I'm Learning  
-- [New Tech/Concept You're Exploring]  
-- [Skill Improvement Areas]  
+# 👩‍💻 Tech Stack:
 
-## ❓ Ask Me About  
-- [Your Strengths/Expertise]  
+- **Programming Languages:** Java, C, C++, Python, JavaScript, SQL
+- **Backend Technologies:** Node.js, Express.js, Flask, JWT, WebSocket
+- **Databases:** MySQL, PostgreSQL
+- **Web and App Technologies:** React.js, HTML, CSS, Bootstrap, Node.js
+- **Tools:**  Git, RESTful APIs, JWT, Redis
 
-## ⚡ Fun Fact  
-[Something Unique About You]  
 
-## 👩‍💻 Tech Stack  
-- **Programming Languages**: C, C++, JavaScript, Python, Java  
-- **Frontend**: React.js, Next.js, HTML, CSS, Tailwind  
-- **Backend**: Node.js, Express.js, FastAPI  
-- **Databases**: PostgreSQL, MongoDB  
-- **Other Tools**: Docker, Git, GitHub Actions  
+# 📊 GitHub Stats:
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+<div align="center">
 
-## 📌 Pinned Projects  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=RepoName&theme=radical)](https://github.com/YourUsername/RepoName)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=RepoName&theme=radical)](https://github.com/YourUsername/RepoName)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mridulmehra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💼 Work Experience  
-- **[Your Role]** at **[Company Name]** (YYYY - Present)  
-- **[Your Role]** at **[Previous Company/Internship]** (YYYY - YYYY)  
+</div>
 
-## 🌐 Connect With Me  
-- **LinkedIn**: [Your LinkedIn URL](https://linkedin.com/in/YourUsername)  
-- **Twitter**: [Your Twitter URL](https://twitter.com/YourUsername)  
-- **Portfolio**: [Your Website/Portfolio](https://YourPortfolio.com)  
+# 💼 My Work Experience:
+
+- Software Engineer Intern at FairPocket Technology 
+- Software Development Intern at TechFief Consultancy
+  
+# 🌐 Socials:
+You can reach out to me at  
+[https://linkedin.com/in/mridulmehra](https://linkedin.com/in/mridulmehra)  
+[https://leetcode.com/u/Mridulmehra/](https://leetcode.com/u/Mridulmehra/) 
