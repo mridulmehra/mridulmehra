@@ -28,7 +28,11 @@ I am Mridul Mehra, a Pre-final year Computer Science and Engineering student at 
 
 - Software Engineer Intern at FairPocket Technology 
 - Software Development Intern at TechFief Consultancy
-  
+
+# 📫 Portfolio:
+Check out my personal portfolio website to know more about my projects and work:  
+[https://mridulmehra.me](https://mridulmehra.me)
+
 # 🌐 Socials:
 You can reach out to me at  
 [https://linkedin.com/in/mridulmehra](https://linkedin.com/in/mridulmehra)  
